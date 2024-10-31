@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Authoring\n"
+"POT-Creation-Date: 2014-01-02 20:57+0100\n"
+"PO-Revision-Date: 2014-03-10 12:21+0100\n"
+"Last-Translator: Juan Viñas Traverso <juan@juanvt.com>\n"
+"Language-Team: Juanvt.com <juan@juanvt.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../post-authoring.php:58
+msgid "Change Author's name"
+msgstr "Cambiar Nombre de Autor"
+
+#: ../post-authoring.php:69
+msgid "Author's Name"
+msgstr "Nombre de Autor"
+
+#: ../post-authoring.php:72
+msgid ""
+"Leave it blank if you want to use the Original Author based in WordPress "
+"user."
+msgstr ""
+"Déjalo en blanco si quieres utilizar el Autor Original basado en usuarios de "
+"WordPress."
+
+#: ../post-authoring.php:74
+msgid "Note:"
+msgstr "Nota:"
+
+#: ../post-authoring.php:74
+msgid ""
+"If you want to set other WordPress user as the Author, use the WordPress "
+"native option for change the Author."
+msgstr ""
+"Si quieres establecer otro usuario de WordPress como el Autor de la entrada, "
+"utiliza la opción nativa de WordPress para cambiar el Autor."
+
+#: ../post-authoring.php:76
+msgid "Important:"
+msgstr "Importante:"
+
+#: ../post-authoring.php:76
+msgid ""
+"If are using some type of Author information box in your post, you must "
+"disable it manually."
+msgstr ""
+"Si está en uso algún tipo de cuadro de información sobre el Autor, deberías "
+"deshabilitarla manualmente."
+
+#: ../post-authoring.php:134
+#, php-format
+msgid "Posts by %s"
+msgstr "Entradas de %s"
